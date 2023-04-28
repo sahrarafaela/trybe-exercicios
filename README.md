@@ -1,1 +1,1 @@
-# rybe-exercicios
+# Trybe-exercicios
