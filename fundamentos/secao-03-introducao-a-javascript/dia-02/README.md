@@ -1,5 +1,5 @@
 # 1 APREDENDO SOBRE ARRAYS
-==
+-  
 
 1 adicionar ou substituir nova chave de um array = ex. nome do array [posição] = 'valor que deseja adionar';  
 2 adicionar de outra forma em última posição = ex.nome do array.push('valor que deseja adicionar') ;  
@@ -15,4 +15,8 @@ for(let index = 0; index <nomeDoArray>.length; index+=1){
 9 procurar o índice de um valor = ex. indexof();  
   
 # 2 APRENDENDO SOBRE FOR
-==
+-  
+estrutura básisa= ex. for (inicial; consição de repetição; incremento/decremento){
+lógica
+};  
+
