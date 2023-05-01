@@ -16,7 +16,8 @@ for(let index = 0; index <nomeDoArray>.length; index+=1){
   
 # 2 APRENDENDO SOBRE FOR
 -  
-estrutura básisa= ex. for (inicial; consição de repetição; incremento/decremento){
-lógica
-};  
+estrutura básisa= ex. 
+for (inicial; consição de repetição; incremento/decremento){  
+lógica  
+};    
 
