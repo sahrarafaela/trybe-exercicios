@@ -196,31 +196,31 @@
 
 // Uma pessoa que trabalha de carteira assinada no Brasil tem descontados de seu salário bruto o INSS e o IR.
 
-// let salario = 20000
-// let valorASerPagoINSS
-// let valorASerPagoIR
+let salario = 20000
+let valorASerPagoINSS
+let valorASerPagoIR
 
-// if(salario <= 1556.94){
-//    valorASerPagoINSS = salario * 0.08
-// } else if(salario <= 2594.92){
-//     valorASerPagoINSS = salario * 0.09
-// } else if (salario <= 5189.82){
-//         valorASerPagoINSS = salario * 0.11
-// } else{
-//     valorASerPagoINSS = 570.88
-// }
-// let valorComINSS = salario - valorASerPagoINSS
+if(salario <= 1556.94){
+   valorASerPagoINSS = salario * 0.08
+} else if(salario <= 2594.92){
+    valorASerPagoINSS = salario * 0.09
+} else if (salario <= 5189.82){
+        valorASerPagoINSS = salario * 0.11
+} else{
+    valorASerPagoINSS = 570.88
+}
+let valorComINSS = salario - valorASerPagoINSS
 
-// if (valorComINSS <= 1903.98){
-//     valorASerPagoIR = 0
-// } else if (valorComINSS <= 2826.65){
-//     valorASerPagoIR = (valorComINSS * 0.075 ) - 142.80
-// } else if (valorComINSS <= 3751.05){
-//     valorASerPagoIR = (valorComINSS * 0.15) - 354.80
-// } else if (valorComINSS <= 4664.68){
-//     valorASerPagoIR = (valorComINSS * 0.225) - 636.13
-// } else {
-//     valorASerPagoIR = (salario * 0.275) - 869.36
-// }
-// console.log(valorComINSS - valorASerPagoIR)
+if (valorComINSS <= 1903.98){
+    valorASerPagoIR = 0
+} else if (valorComINSS <= 2826.65){
+    valorASerPagoIR = (valorComINSS * 0.075 ) - 142.80
+} else if (valorComINSS <= 3751.05){
+    valorASerPagoIR = (valorComINSS * 0.15) - 354.80
+} else if (valorComINSS <= 4664.68){
+    valorASerPagoIR = (valorComINSS * 0.225) - 636.13
+} else {
+    valorASerPagoIR = (salario * 0.275) - 869.36
+}
+console.log(valorComINSS - valorASerPagoIR)
 
