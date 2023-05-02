@@ -1,0 +1,17 @@
+1 - levantar da cama;
+2 - pegar a toalha;
+3 - abrir a porta do quarto;
+4 - ir até o banheiro; 
+5 - abrir a porta do banheiro
+6 - ligar o chuveiro;
+7 - lavar o cabelo e tomar banho;
+8 - escovar os dentes; 
+9 - abrir a porta do banheiro;  
+10 - ir até o quarto;
+11 - abrir a porta do guarda-roupa;
+12 - tirar a toalha;
+13 - escolher uam roupa de festa;
+14 - vestir a roupa escolhida;
+15 - calçar um sapato;
+16 - pegar o celular;
+
