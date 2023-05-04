@@ -8,3 +8,4 @@ let searchForFirstTask = tasksList[0];
 let searchForLastTask = tasksList[tasksList.length - 1];
 console.log(searchForLastTask);
 // Brincar com o cachorro
+
