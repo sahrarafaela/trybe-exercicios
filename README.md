@@ -1,3 +1,3 @@
 # Meu repositório de exercícios 
 
-trybe-exercicios
+Nesse repositório irei adicionar todos os meus exercícios feitos com a trybe;
